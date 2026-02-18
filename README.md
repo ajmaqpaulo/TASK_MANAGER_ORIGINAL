@@ -13,7 +13,7 @@ Si necesitas ver los prototipos, diseños o flujo de pantallas, revisa la carpet
 ## 🛠️ Requisitos Previos
 
 Asegúrate de tener instalado:
-* Node.js
+* Node.js > 20.17.0
 * Tener los servicios de Backend corriendo (`BACKEND_TAREAS` y `MICROSERVICIO_AUTH`).
 
 ---
